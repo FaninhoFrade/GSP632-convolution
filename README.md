@@ -13,7 +13,7 @@ This project focuses on image processing through convolutions and pooling using 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gcloud-convolution-tensorflow.git
+   git clone https://github.com/ljubogdan/gcloud-convolution-tensorflow.git
    ```
 2. Install required dependencies:
    ```bash
