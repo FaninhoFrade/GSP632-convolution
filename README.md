@@ -1,5 +1,5 @@
 ## About
-This project focuses on image processing through convolutions and pooling using **Google Cloud**. It utilizes **SciPy** and **NumPy** to load and manipulate images, apply 3x3 convolution filters, and analyze output effects. The project serves as a hands-on lab to explore fundamental concepts of deep learning and computer vision, including feature extraction and image analysis.
+This project focuses on image processing through convolutions and pooling on **Google Cloud**. It utilizes **SciPy** and **NumPy** to load and manipulate images, apply 3x3 convolution filters, and analyze output effects. The project serves as a hands-on lab to explore fundamental concepts of deep learning and computer vision, including feature extraction and image analysis.
 
 ## Prerequisites
 - Python 3.x
