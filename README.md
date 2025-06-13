@@ -4,6 +4,8 @@ This project focuses on image processing through convolutions and pooling using 
 ## Prerequisites
 - Python 3.x
 - TensorFlow
+- Skimage
+- Matplotlib
 - SciPy
 - NumPy
 - Google Cloud Console access with configured credentials
@@ -15,7 +17,7 @@ This project focuses on image processing through convolutions and pooling using 
    ```
 2. Install required dependencies:
    ```bash
-   pip install tensorflow scipy numpy
+   pip install tensorflow scipy numpy skimage matplotlib
    ```
 3. Set up Google Cloud credentials (refer to [Google Cloud documentation](https://cloud.google.com/docs)).
 
